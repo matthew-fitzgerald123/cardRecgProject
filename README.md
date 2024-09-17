@@ -1,4 +1,4 @@
-# cardRecognition
+# Card Recognition Project
 **(Work in Progress)**
 card recognition project 
 
