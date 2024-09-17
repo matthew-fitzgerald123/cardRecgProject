@@ -2,11 +2,9 @@
 **(Work in Progress)**
 card recognition project 
 
-I set out to gather and procure a dataset that I could use to train a neural network that I created to recognize different playing cards.
+I set out to gather and procure a dataset that I could use to train a neural network that I created to recognize different playing cards. This was my first time creating and training a model.
 
-This was my first time creating and training a model.
-
-**Steps:**
+**Steps**
 1. Created a dataset from images of playing cards that I had taken.
 2. Performed augmentations on the dataset to greatly expand it.
 3. Trained a neural network from the expanded dataset.
