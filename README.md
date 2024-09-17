@@ -1,5 +1,6 @@
 # cardRecognition
-card recognition project **(Work in Progress)**
+**(Work in Progress)**
+card recognition project 
 
 I set out to gather and procure a dataset that I could use to train a neural network that I created to recognize different playing cards.
 
